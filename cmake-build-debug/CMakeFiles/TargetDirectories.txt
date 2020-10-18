@@ -1,0 +1,3 @@
+/Users/kateerickson/Documents/CSC243Projects/week5code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kateerickson/Documents/CSC243Projects/week5code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kateerickson/Documents/CSC243Projects/week5code/cmake-build-debug/CMakeFiles/week5code.dir
